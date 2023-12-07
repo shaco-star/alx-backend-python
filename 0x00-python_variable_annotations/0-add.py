@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-    """_add 2 floats
-    """
-def add(float: a, float: b) ->float:
+"""add function
+"""
+def add(a: float, b: float) ->float:
     """_summary_
 
     Args:
