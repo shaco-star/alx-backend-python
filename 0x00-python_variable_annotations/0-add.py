@@ -2,12 +2,14 @@
 
 """add function
 """
-def add(a: float, b: float) ->float:
+
+
+def add(a: float, b: float) -> float:
     """_summary_
 
     Args:
-        float (a): float number
-        float (b): float number
+        b: float number
+        a: float number
 
     Returns:
         float: float
