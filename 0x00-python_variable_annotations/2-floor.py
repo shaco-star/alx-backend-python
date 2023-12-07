@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-
+import math
 """floor function
 """
 
 def floor (n: float) -> float:
     """floor of a number"""
-    return floor(n)
+    return math.floor(n)
+
+
+ans = floor(3.14)
