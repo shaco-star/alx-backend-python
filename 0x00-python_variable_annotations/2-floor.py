@@ -3,9 +3,6 @@ import math
 """floor function
 """
 
-def floor (n: float) -> float:
+def floor(n: float) -> int:
     """floor of a number"""
     return math.floor(n)
-
-
-ans = floor(3.14)
